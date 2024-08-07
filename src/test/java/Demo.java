@@ -47,15 +47,6 @@ public class Demo {
         System.out.println("running.. afterCalss");
 
     }
-   // @Test
-////	void test2() {
-////	   //System.out.println("This is my test Case");
-////	fail("not yet implemented");
-////	}
-
-//
-
-//
 
 
 }
